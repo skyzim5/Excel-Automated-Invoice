@@ -1,4 +1,4 @@
-## Excel-Automated-Invoice
+# Excel-Automated-Invoice
 Excel VBA Automated Invoice Template
 
 # Overview
