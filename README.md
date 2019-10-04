@@ -11,7 +11,7 @@ Uses Visual Basics and Excel to automatically copy invoice information from csv 
 4)  Run Script Invoice_Tracker to scan and highlight any issues with invoices.
 
 ## Version Update and Fixes
-V.03
+V.03  
 Added Invoice_Tracker - New module to track invoices created.  
 Added Automated_Invoice - Copy Invoice Number, Date, and Item Qty To Invoice Tracker.  
 Fixed Clean_Data_Up - Remove PO from Order Number was not bound by Range constraints.  
