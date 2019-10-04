@@ -12,10 +12,10 @@ Uses Visual Basics and Excel to automatically copy invoice information from csv 
 
 ## Version Update and Fixes
 V.03
-Added Invoice_Tracker - New module to track invoices created
-Added Automated_Invoice - Copy Invoice Number, Date, and Item Qty To Invoice Tracker
-Fixed Clean_Data_Up - Remove PO from Order Number was not bound by Range constraints.
-Removed Automated_Invoice - Print invoice to printer and "Click To Print" message box. I found this redundent and slow because you can print from PDF files afterwards.
+Added Invoice_Tracker - New module to track invoices created.  
+Added Automated_Invoice - Copy Invoice Number, Date, and Item Qty To Invoice Tracker.  
+Fixed Clean_Data_Up - Remove PO from Order Number was not bound by Range constraints.  
+Removed Automated_Invoice - Print invoice to printer and "Click To Print" message box. I found this redundent and slow because you can print from PDF files afterwards.  
 
 V.02  
 Added Clean_Data_Up - remove carrier USPS from Service Selected.  
